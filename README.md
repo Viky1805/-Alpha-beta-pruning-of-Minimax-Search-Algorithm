@@ -229,7 +229,7 @@ if __name__ == "__main__":
 <hr>
 
 
-<h2> Result: <\h2>
+<h2> Result: </h2>
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
 
 
